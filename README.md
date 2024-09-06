@@ -11,5 +11,6 @@ This project focuses on detecting manipulated or fake images through machine lea
 
 ## Technologies
 - **Programming Language**: Python
-- **Libraries**: TensorFlow/Keras, OpenCV, Scikit-learn
+- **Libraries**: TensorFlow/Keras, Matplotlib
+- **CNN Architecture**: AlexNet
 
